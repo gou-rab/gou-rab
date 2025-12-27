@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120">
+  <defs>
+    <!-- Animated horizontal gradient -->
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00B4DB">
+        <animate attributeName="stop-color"
+                 values="#00B4DB; #3B82F6; #EC38BC; #00B4DB"
+                 dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#EC38BC">
+        <animate attributeName="stop-color"
+                 values="#EC38BC; #8B5CF6; #00B4DB; #EC38BC"
+                 dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Transparent background so it matches GitHub dark theme -->
+  <rect width="100%" height="100%" fill="none" />
+
+  <text x="50%" y="50%" text-anchor="middle"
+        dominant-baseline="central"
+        font-family="Fira Code, system-ui, -apple-system, BlinkMacSystemFont"
+        font-size="64"
+        fill="url(#grad)">
+    Gourab
+  </text>
+</svg>
