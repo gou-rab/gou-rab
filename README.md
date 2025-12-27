@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&pause=800&color=003153&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&background=000000&lines=Gourab+Bhadra;)](https://git.io/typing-svg)
+<p align="center">
+  <img src="name-logo.svg" alt="Gourab gradient logo" />
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&pause=800&color=003153&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&background=000000&lines=Gourab+Bhadra;ML+and+Full‑Stack+Developer)](https://git.io/typing-svg)
 
 
 
