@@ -124,16 +124,7 @@
 </table>
 <br>
 
-<h2>📊 GitHub Stats & Activity</h2>
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img 
-      alt="Activity Graph" 
-      src="https://github-readme-activity-graph.vercel.app/graph/?username=heisenberg-611&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
-    />
-  </a>
-</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gourab_________0?igsh=MW9mcHN3bjF3YXh5aQ==) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@gourab2259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhgourab@gmail.com) 
