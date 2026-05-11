@@ -2,14 +2,6 @@
 
 CS student focused on **machine learning and AI** — particularly explainable AI and its applications in healthcare.
 
-I've published research on multimodal deep learning for early disease diagnosis, and I'm building towards a career as an ML/AI engineer.
-
----
-
-### 📄 Research
-
-**Explainable Multimodal Deep Learning Framework for Early Disease Diagnosis**
-*Published in IJFMR*
 
 ---
 
